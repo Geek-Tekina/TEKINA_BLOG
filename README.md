@@ -1,4 +1,5 @@
 ### A MERN Blog 📚📔📕 app for my college students to use it as a social college board.
+### Live demo -> https://www.youtube.com/watch?v=wnDDVQSyOnw&themeRefresh=1
 ### Features of Blog App : 
 1. User can sign in and register in two roles - Author and Reader.
 2. User authentication is done via email and password.
