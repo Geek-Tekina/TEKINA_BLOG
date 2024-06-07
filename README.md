@@ -14,3 +14,8 @@
 -> <img src="https://github.com/Geek-Tekina/TEKINA_BLOG/blob/main/Screenshot%20(200).png">
 <hr>
 
+### App in Light mode
+-> <img src="https://github.com/Geek-Tekina/TEKINA_BLOG/blob/main/Screenshot%20(201).png">
+-> <img src="https://github.com/Geek-Tekina/TEKINA_BLOG/blob/main/Screenshot%20(202).png">
+<hr>
+
